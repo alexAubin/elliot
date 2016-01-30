@@ -22,6 +22,20 @@ class objective :
         return """
 Felicitation, vous avez termine tous les objectifs de cette partie !
 
+ ,-------------------------------------------------------------------------,
+|                                                                           |
+|   [ Credits ]                                                             |
+|                                                                           |
+|   Alex      -- Main dev                                                   |
+|                                                                           |
+|   Akaash    -- Beta-testeur, UX designer                                  |
+|                                                                           |
+|   Nico      -- Beta-testeur, UX designer                                  |
+|                                                                           |
+|   Odile     -- Beta-testeuse                                              |
+|                                                                           |
+ `-------------------------------------------------------------------------'
+
         """
 
 

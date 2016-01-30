@@ -37,16 +37,23 @@ et creer dans le meme sous-dossier un fichier "custom.css".
 |                                                                           |
 |   [ Commandes utiles ]                                                    |
 |                                                                           |
+|   tree dossier                  pour afficher l'arborescence d'un dossier |
+|                                                                           |
 |   cd chemin/d'un/dossier        pour aller dans un autre dossier          |
 |                                                                           |
+|   cd ..                         pour revenir un cran en arriere           |
+|                                                                           |
 |   nano nomDeFichier             pour editer un fichier (et le creer si il |
-|                                 n'existe pas).                            |
+|                                 n'existe pas). Pour quitter, utiliser     |
+|                                 <Ctrl>+X                                  |
 |                                                                           |
  `-------------------------------------------------------------------------'
 
  ,-------------------------------------------------------------------------,
 |                                                                           |
 |   [ Objectifs ]                                                           |
+|                                                                           |
+|   - Inspecter l'architecture du dossier "infectedWebsite"                 |
 |                                                                           |
 |   - Creer un fichier "custom.css" dans le meme repertoire que "pure.css"  |
 |                                                                           |

@@ -15,10 +15,7 @@ class Elliot :
         self.guideName   = guideName;
         self.traineeName = traineeName;
 
-        #objectives = [ "passwd", "ls", "cdAndNano", "cpAndRm", "psAndTop" ] 
-        #objectives = [ "psAndTop" ] 
-        objectives = [ "apt", "done" ] 
-
+        objectives = [ "passwd", "ls", "cdAndNano", "cpAndRm", "psAndTop", "apt", "done" ] 
 
         for objectiveName in objectives :
 

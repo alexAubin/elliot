@@ -94,6 +94,7 @@ d'inspecter le contenu de ce dossier.
 |   - Verifier que vous etes dans votre $HOME avec la commande "pwd"        |
 |                                                                           |
 |   - Lister le contenu de votre $HOME, puis de "infectedWebsite"           |
+|         (avec ls ou avec tree)                                            |
 |                                                                           |
 |   - Creer un alias pour que lorsque vous tapez "ll", cela execute "ls -l" |
 |     Pour ce faire, taper : alias ll='ls -l'                               |

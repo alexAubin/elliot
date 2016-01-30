@@ -90,7 +90,7 @@ Une fois que vous avez termine, envoyez-moi un mail vide avec
 
     def sorry(self) :
         return """
-Desole, il semblerait que vous n'ayez pas encore supprimer le fichier "facebook00.dat" et que le fichier "fsociety00.dat" ne soit pas encore la.
+Desole, il semblerait que vous n'ayez pas encore supprime le fichier "facebook00.dat" et que le fichier "fsociety00.dat" ne soit pas encore la.
 """	
 
 

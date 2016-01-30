@@ -40,7 +40,7 @@ interface graphique)
 |                      dire administrateur). En particulier, apt-get        |
 |                      necessite d'etre execute avec "sudo" car installer   |
 |                      de nouveaux programmes de mettre a jour le systeme   |
-|                      est une tache d'administration.                      |
+|                      releve de l'administration.                          |
 |                                                                           |
 |   apt-get update     Questionne les depots de logiciels pour demander si  |
 |                      des mises a jour sont disponibles                    |
@@ -58,11 +58,13 @@ interface graphique)
 |                                                                           |
 |   [ Objectifs ]                                                           |
 |                                                                           |
-|   - Mettez a jour votre systeme (update et upgrade)                       |
+|   - Mettre a jour votre systeme (update et upgrade)                       |
 |                                                                           |
-|   - Demandez si le paquet "links" existe                                  | 
+|   - Demander si le paquet "links" existe                                  | 
 |                                                                           |
 |   - Installer "links"                                                     | 
+|                                                                           |
+|   - Essayer la commande "links fr.wikipedia.org"                          | 
 |                                                                           |
  `-------------------------------------------------------------------------'
 
